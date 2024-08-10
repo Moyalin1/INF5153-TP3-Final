@@ -1,0 +1,19 @@
+{
+	a = 15 ;
+	b = c ;
+
+	if (a != 2 ) then {
+		c = 15 ;
+		e = b-c ;
+	} else {
+		a = 15 + 18 ;
+	}
+
+	read("La taille : " , x) ;
+	
+	while(a==0) {
+		print("Resultat : " + a) ;
+	} 
+	
+	
+}

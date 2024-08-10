@@ -1,0 +1,24 @@
+
+
+{
+	a = 15 ;
+	b = a + 18 ;
+	if (ab != 2 ) then {
+		c = 15 ;
+		e = -e + (b-c )/ (15 -g) ;
+	}
+	while (aa != 0 ) {
+		f = 18 ;
+		if (ff ==10) then {
+			e = 5 ;
+			read("La taille : " , xx) ;
+			if (toto != 19) then {
+				x = (a+12) * 53 ;
+			} else  {
+				z = (a+12)/(78 - (a+b)) -cd ;
+			}
+		}
+	}
+	print("Resultat : " + aa) ;
+
+}
